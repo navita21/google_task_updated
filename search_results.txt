@@ -1,0 +1,10 @@
+1. pytest documentation
+2. Table Of Contents
+3. Get Started
+4. How-to guides
+5. Pytest fixtures
+6. Helps you write better programs
+7. pytest
+8. Effective Python Testing With Pytest
+9. Usage and Invocations - pytest documentation
+10. Advanced Techniques for API Testing with Pytest - Medium
